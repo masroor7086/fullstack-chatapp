@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../../fullstack-chat-app-master/backend"
+		},
+		{
+			"path": "../../fullstack-chat-app-master/frontend"
+		}
+	],
+	"settings": {}
+}
